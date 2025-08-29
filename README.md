@@ -3,7 +3,7 @@
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
-  <a href="https://git.io/typing-svg"> 
+  <a href="[https://git.io/typing-svg](https://github.com/syrenthaofficial/Syrentha/blob/master/assets/bot_image.JPG)"> 
     <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
   </a> 
 </div> 
