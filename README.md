@@ -142,19 +142,19 @@ It is lightweight and can be easily customized to add more commands as per your 
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com//syrenthaofficial/Syrentha/blob/main/LICENSE) file for details.
 
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mruniquehacker/Knightbot-MD/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com//syrenthaofficial/Syrentha/issues).
 
 ---
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com//syrenthaofficial/Syrentha)!
 
 
 ---
