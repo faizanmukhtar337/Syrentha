@@ -1,0 +1,119 @@
+{
+  "users": [],
+  "groups": [],
+  "antilink": {
+    "120363403694547529@g.us": {
+      "enabled": true,
+      "action": "warn"
+    },
+    "120363403243264596@g.us": {
+      "enabled": true,
+      "action": "delete"
+    },
+    "120363421585612609@g.us": {
+      "enabled": true,
+      "action": "kick"
+    },
+    "120363420850259094@g.us": {
+      "enabled": true,
+      "action": "warn"
+    },
+    "120363402312801532@g.us": {
+      "enabled": true,
+      "action": "kick"
+    },
+    "120363420016780530@g.us": {
+      "enabled": true,
+      "action": "warn"
+    },
+    "120363401585806987@g.us": {
+      "enabled": true,
+      "action": "warn"
+    },
+    "120363421147974173@g.us": {
+      "enabled": true,
+      "action": "delete"
+    },
+    "120363420986528389@g.us": {
+      "enabled": true,
+      "action": "delete"
+    }
+  },
+  "antibadword": {
+    "120363402312801532@g.us": {
+      "enabled": true,
+      "action": "delete"
+    },
+    "120363403694547529@g.us": {
+      "enabled": true,
+      "action": "delete"
+    },
+    "120363421585612609@g.us": {
+      "enabled": true,
+      "action": "warn"
+    }
+  },
+  "warnings": {
+    "120363403694547529@g.us": {
+      "142224184610931@lid": 0,
+      "232680541176042@lid": 1,
+      "250702156853324@lid": 1,
+      "58875495620849@lid": 1
+    },
+    "120363420016780530@g.us": {
+      "71369857474623@lid": 2,
+      "269702739841260@lid": 2,
+      "119495301570740@lid": 1,
+      "219933027905705@lid": 1
+    }
+  },
+  "sudo": [],
+  "welcome": {
+    "120363403694547529@g.us": {
+      "enabled": true,
+      "message": "Hey! Welcome to this Group",
+      "channelId": "0029Vb6WJ1IL2AU658NaxT2Q@newsletter"
+    },
+    "120363421585612609@g.us": {
+      "enabled": true,
+      "message": "Hey! Welcome to this group.",
+      "channelId": "0029Vb6WJ1IL2AU658NaxT2Q@newsletter"
+    },
+    "120363420850259094@g.us": {
+      "enabled": true,
+      "message": "Hey! Welcome to this group.",
+      "channelId": "0029Vb6WJ1IL2AU658NaxT2Q@newsletter"
+    },
+    "120363402312801532@g.us": {
+      "enabled": true,
+      "message": "Hey! Welcome to this group.",
+      "channelId": "0029Vb6WJ1IL2AU658NaxT2Q@newsletter"
+    },
+    "120363420016780530@g.us": {
+      "enabled": true,
+      "message": "Hey! Welcome to this group.",
+      "channelId": "0029Vb6WJ1IL2AU658NaxT2Q@newsletter"
+    },
+    "120363401585806987@g.us": {
+      "enabled": true,
+      "message": "Hey! welcome to this group.",
+      "channelId": "0029Vb6WJ1IL2AU658NaxT2Q@newsletter"
+    },
+    "120363420986528389@g.us": {
+      "enabled": true,
+      "message": "Welcome to this group.",
+      "channelId": "120363419270392244@newsletter"
+    }
+  },
+  "goodbye": {
+    "120363403694547529@g.us": {
+      "enabled": true,
+      "message": "Goodbye 👋🏼",
+      "channelId": "120363419270392244NaxT2Q@newsletter"
+    }
+  },
+  "chatbot": {
+    "120363420986528389@g.us": true
+  },
+  "autoReaction": true
+}
